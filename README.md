@@ -18,4 +18,4 @@ A full-stack Point-of-Sale (POS) and inventory management web app built with **N
    ```bash
    npm install
 
-**Live Demo:** https://medimart-pos.onrender.com.onrender.com/
+**Live Demo:** https://medimart-pos.onrender.com/
